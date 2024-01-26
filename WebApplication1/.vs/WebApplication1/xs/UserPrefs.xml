@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{81875C8D-23AE-4A3D-AFFA-C688646C75A0}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WebApplication1 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication1/WeatherForecast.cs">
+    <Files>
+      <File FileName="../README.md" />
+      <File FileName="WebApplication1/Controllers/OrderController.cs" />
+      <File FileName="WebApplication1/Controllers/WeatherForecastController.cs" />
+      <File FileName="WebApplication1/Data/OrderDBContext.cs" />
+      <File FileName="WebApplication1/Migrations/20231113124401_InitialCreate.cs" />
+      <File FileName="WebApplication1/Migrations/OrderDBContextModelSnapshot.cs" />
+      <File FileName="WebApplication1/Models/OrderModel.cs" />
+      <File FileName="WebApplication1/Properties/launchSettings.json" />
+      <File FileName="WebApplication1/Views/Shared/_ValidationScriptsPartial.cshtml" />
+      <File FileName="WebApplication1/appsettings.json" />
+      <File FileName="WebApplication1/Program.cs" />
+      <File FileName="WebApplication1/WeatherForecast.cs" Line="13" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApplication1" expanded="True">
+            <Node name="WebApplication1" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="WeatherForecast.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,90 @@
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/bin/Debug/net6.0/appsettings.Development.json
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/bin/Debug/net6.0/appsettings.json
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/bin/Debug/net6.0/WebApplication2.staticwebassets.runtime.json
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/bin/Debug/net6.0/WebApplication2.exe
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/bin/Debug/net6.0/WebApplication2.deps.json
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/bin/Debug/net6.0/WebApplication2.runtimeconfig.json
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/bin/Debug/net6.0/WebApplication2.dll
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/bin/Debug/net6.0/WebApplication2.pdb
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.AssemblyInfoInputs.cache
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.AssemblyInfo.cs
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.csproj.CoreCompileInputs.cache
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.RazorAssemblyInfo.cache
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.RazorAssemblyInfo.cs
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets/msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets/msbuild.build.WebApplication2.props
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication2.props
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.WebApplication2.props
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets.pack.json
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets.build.json
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets.development.json
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/scopedcss/bundle/WebApplication2.styles.css
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/scopedcss/projectbundle/WebApplication2.bundle.scp.css
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.dll
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/refint/WebApplication2.dll
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.pdb
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.genruntimeconfig.cache
+D:/Documents/FPT Aptech/T2207E_SEM3/T2207E3_Developing Microsoft Azure and Web Services/SEM3_T2207E_DMAWS_Test/WebApplication2/WebApplication2/obj/Debug/net6.0/ref/WebApplication2.dll
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/bin/Debug/net6.0/appsettings.Development.json
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/bin/Debug/net6.0/appsettings.json
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/bin/Debug/net6.0/WebApplication2.staticwebassets.runtime.json
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/bin/Debug/net6.0/WebApplication2
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/bin/Debug/net6.0/WebApplication2.deps.json
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/bin/Debug/net6.0/WebApplication2.runtimeconfig.json
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/bin/Debug/net6.0/WebApplication2.dll
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/bin/Debug/net6.0/WebApplication2.pdb
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.AssemblyInfoInputs.cache
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.AssemblyInfo.cs
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.csproj.CoreCompileInputs.cache
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.RazorAssemblyInfo.cache
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.RazorAssemblyInfo.cs
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets/msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets/msbuild.build.WebApplication2.props
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication2.props
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.WebApplication2.props
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets.build.json
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets.development.json
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/scopedcss/bundle/WebApplication2.styles.css
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/scopedcss/projectbundle/WebApplication2.bundle.scp.css
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.dll
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/refint/WebApplication2.dll
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.pdb
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.genruntimeconfig.cache
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/SEM3_T2207E_DMAWS_Test-vuxuandu/WebApplication2/WebApplication2/obj/Debug/net6.0/ref/WebApplication2.dll
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/bin/Debug/net6.0/appsettings.Development.json
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/bin/Debug/net6.0/appsettings.json
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/bin/Debug/net6.0/WebApplication2.staticwebassets.runtime.json
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/bin/Debug/net6.0/WebApplication2
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/bin/Debug/net6.0/WebApplication2.deps.json
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/bin/Debug/net6.0/WebApplication2.runtimeconfig.json
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/bin/Debug/net6.0/WebApplication2.dll
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/bin/Debug/net6.0/WebApplication2.pdb
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.AssemblyInfoInputs.cache
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.AssemblyInfo.cs
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.csproj.CoreCompileInputs.cache
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.RazorAssemblyInfo.cache
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.RazorAssemblyInfo.cs
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets/msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets/msbuild.build.WebApplication2.props
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication2.props
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.WebApplication2.props
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets.build.json
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/staticwebassets.development.json
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/scopedcss/bundle/WebApplication2.styles.css
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/scopedcss/projectbundle/WebApplication2.bundle.scp.css
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.dll
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/refint/WebApplication2.dll
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.pdb
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/WebApplication2.genruntimeconfig.cache
+/Users/nguyenthanhthuy/Documents/FPT/SEM 3/DMAWS/Test/T2208E_DMAWS_Test_ThuyNT/WebApplication2/WebApplication2/obj/Debug/net6.0/ref/WebApplication2.dll

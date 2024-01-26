@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{B96B494F-1B4D-46AB-AA07-44C8FA7DBA40}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WebApplication2 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication2/Program.cs">
+    <Files>
+      <File FileName="WebApplication2/Views/Home/Index.cshtml" Line="61" Column="12" />
+      <File FileName="WebApplication2/Views/Home/Privacy.cshtml" Line="7" Column="1" />
+      <File FileName="WebApplication2/Views/_ViewImports.cshtml" Line="3" Column="53" />
+      <File FileName="WebApplication2/Views/_ViewStart.cshtml" Line="3" Column="2" />
+      <File FileName="WebApplication2/appsettings.json" Line="9" Column="2" />
+      <File FileName="WebApplication2/Program.cs" Line="27" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApplication2" expanded="True">
+            <Node name="WebApplication2" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
